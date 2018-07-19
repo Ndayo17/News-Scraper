@@ -15,5 +15,15 @@
   "bugs": {
     "url": "https://github.com/Ndayo17/News-Scraper/issues"
   },
-  "homepage": "https://github.com/Ndayo17/News-Scraper#readme"
+  "homepage": "https://github.com/Ndayo17/News-Scraper#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body": "^5.1.0",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^5.1.6",
+    "parser": "^0.1.4",
+    "request": "^2.87.0"
+  }
 }
